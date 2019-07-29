@@ -6,7 +6,7 @@
 
 ### Expo
 
-```
+```bash
 cd react-native-notes
-yarn start
+yarn start || npm start
 ```
